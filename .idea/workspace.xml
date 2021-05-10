@@ -19,11 +19,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="450">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -46,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/routes/user.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -66,10 +66,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/backend/index.js" />
         <option value="$PROJECT_DIR$/backend/.env" />
         <option value="$PROJECT_DIR$/backend/models/user.js" />
         <option value="$PROJECT_DIR$/backend/package.json" />
+        <option value="$PROJECT_DIR$/backend/index.js" />
       </list>
     </option>
   </component>
@@ -103,12 +103,6 @@
               <item name="custom writting" type="b2602c69:ProjectViewProjectNode" />
               <item name="custom writting" type="462c0819:PsiDirectoryNode" />
               <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="custom writting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="custom writting" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -120,10 +114,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620670348338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620670579825" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/routes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620667059871</updated>
-      <workItem from="1620667061262" duration="2890000" />
+      <workItem from="1620667061262" duration="3160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2890000" />
+    <option name="totallyTimeSpent" value="3160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="52" width="1331" height="710" extended-state="0" />
@@ -162,13 +161,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32847896" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -216,13 +215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/controllers/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3592" />
@@ -237,6 +229,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/routes/user.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
